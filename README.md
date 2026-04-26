@@ -26,7 +26,7 @@ This project leverages Machine Learning to enhance the efficiency of bank market
 * **Feature Importance:** The model identified **Call Duration**,**Euribor 3m Rate**,and **Customer Age** as the top 3 drivers of subscription success.
 
 ## 📁 Repository Structure
-* `Bank_Marketing_Analysis.ipynb`: The complete Jupyter Notebook containing data cleaning, EDA, and model training.
+* `Bank_Marketing_Analysis.ipynb`: The complete Jupyter Notebookcontaining data cleaning, EDA, and model training.
 * `bank-additional-full.csv`: The dataset used for analysis.
 * `bank_marketing_model.pkl`: The exported Machine Learning model.
 * `Images/`: Folder containing the 12 generated visualizations (e.g., Feature Importance, Correlation Heatmap).
