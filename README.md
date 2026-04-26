@@ -23,7 +23,7 @@ This project leverages Machine Learning to enhance the efficiency of bank market
 * **Algorithm:** Random Forest Classifier
 * **Handling Imbalance:** Applied `class_weight='balanced'` to address the 11% positive class imbalance.
 * **Accuracy:** 92%
-* **Feature Importance:** The model identified **Call Duration**,**Euribor 3m Rate**, and **Customer Age** as the top 3 drivers of subscription success.
+* **Feature Importance:** The model identified **Call Duration**,**Euribor 3m Rate**,and **Customer Age** as the top 3 drivers of subscription success.
 
 ## 📁 Repository Structure
 * `Bank_Marketing_Analysis.ipynb`: The complete Jupyter Notebook containing data cleaning, EDA, and model training.
