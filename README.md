@@ -6,7 +6,7 @@ This project leverages Machine Learning to enhance the efficiency of bank market
 ## 📊 Dataset
 * **Source:** UCI Machine Learning Repository - Bank Marketing Dataset (`bank-additional-full.csv`)
 * **Size:** 41,188 rows, 21 columns
-* **Target Variable:** `y` (Has the client subscribed a term deposit? 'yes' or 'no')
+* **Target Variable:**`y` (Has the client subscribed a term deposit? 'yes' or 'no')
 
 ## ⚙️ Tech Stack
 * **Language:** Python 3.x
